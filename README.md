@@ -9,7 +9,7 @@ I am consistently learning in as much as I can every day, currently do work in t
 - Bash
 - C/C++ (sorta)
 - 32-bit Binary Analysis and RE, working on 64-bit
-- Penetration Testing (studying for OSCP for almost a year)
+- Penetration Testing (officially studying for OSCP for almost a year exclusively)
 
 ### Certifications 🥇
 - GIAC Reverse Engineering Malware (GREM)
