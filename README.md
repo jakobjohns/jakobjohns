@@ -18,3 +18,9 @@ I am consistently learning in as much as I can every day, currently do work in t
 - Splunk Fundamentals I
 - Python for Data Science
 - ISO 9001 Quality Management Systems Associate and ISO/IEC 27001 Information Security associate
+
+### What have I been up to?
+- Continuing to get comfortable with 64-bit analysis
+- Getting comfortable with WinDbg
+- Working with Golang more, done some small projects in the past but minimal
+- HackTheBox and OSCP labs
