@@ -8,8 +8,10 @@ I am consistently learning in as much as I can every day, currently do work in t
 - Python
 - Bash
 - C/C++ (sorta)
-- 32-bit Binary Analysis and RE, working on 64-bit
-- Penetration Testing (officially studying for OSCP for almost a year exclusively)
+- Docker
+- Infrastructure Development
+- 32-bit Binary/Malware Analysis and RE, working on 64-bit
+- Red/Blue Team Operations (work experience; additionally studying for OSCP for almost a year exclusively)
 
 ### Certifications 🥇
 - GIAC Reverse Engineering Malware (GREM)
